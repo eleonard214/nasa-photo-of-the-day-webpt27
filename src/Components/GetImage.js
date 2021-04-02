@@ -12,6 +12,7 @@ function GetImage({mediaType,imageUrl}){
                     width={window.innerWidth}
                     height={window.innerHeight}
                     playing
+                    />)}
         </div>
     )
 }
